@@ -1,0 +1,14 @@
+.signup-page{
+    background-color: #581a1a;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.signup-page h2{
+    color: white;
+}
+.form-inputs{
+    display: flex;
+    flex-direction: column;
+}

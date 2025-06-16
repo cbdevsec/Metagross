@@ -1,0 +1,11 @@
+.login-form{
+    background-color: #581a1a;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.login-form h2 {
+    color: white;
+}

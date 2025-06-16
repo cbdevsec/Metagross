@@ -1,0 +1,18 @@
+.logo-area img{
+    width: 90px;
+    padding: 10px;
+}
+.navbar-style{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100px;
+}
+.links-area{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 50vw;
+    padding-right: 30px;
+    color: black;
+}

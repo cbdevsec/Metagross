@@ -1,0 +1,8 @@
+.teachersdash-page{
+    background-color: #581a1a;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    padding: 20px;
+}
